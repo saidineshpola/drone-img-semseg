@@ -1,0 +1,6 @@
+fire
+tqdm
+pytorch
+torchvision
+matplotlib
+prettytable
