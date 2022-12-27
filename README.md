@@ -33,6 +33,9 @@ After fetching MMSeg we need to apply the provided patch to add the dataset and 
 cd mmsegmentation
 git apply ../mmseg_suadd.patch
 ```
+## Colab link for noebook
+
+https://colab.research.google.com/drive/1M0q12j-01qjvHgap5nJ_OKOWvfo0cCYO#scrollTo=bitEdQ_HFlSH
 
 ## Dataset preparation
 
